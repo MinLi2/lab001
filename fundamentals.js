@@ -5,3 +5,4 @@ const aCar = {
 };
 
 console.log(aCar.owner);
+console.log(aCar.owner + ' drives a ' + aCar.type.make)
